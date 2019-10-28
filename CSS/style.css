@@ -1,0 +1,40 @@
+body {
+  background-color: #1fcbde;
+}
+h1 {
+color:turquoise;
+}
+p{
+  color:blue;
+}
+ol {
+color:red;
+}
+li{
+  color:red;
+}
+h2 {
+  color:purple;
+}
+div#main{
+background-color: #f0cf16;
+width: 75%;
+}
+div#title {
+  text-align:center;
+  font-size: 32px;
+    text-align: center;
+    font-size: 32px;
+    background-color: rgba(128, 0, 128, 1);
+}
+
+div#container {
+  background-color: purple;
+}
+
+div.section{
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  
+}
